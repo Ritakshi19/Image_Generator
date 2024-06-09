@@ -1,0 +1,9 @@
+.homepage-main-container {
+  color: aliceblue;
+  background-color: rgb(79, 79, 75);
+  text-align: center;
+  margin: 20 auto;
+  padding: 24px;
+  border-radius: 8px;
+  box-shadow: rgba(218, 216, 210, 0.1) 0px 10px 10px -10px;
+}

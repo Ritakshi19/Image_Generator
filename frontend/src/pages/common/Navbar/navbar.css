@@ -1,0 +1,26 @@
+.header-parent-container {
+  display: flex;
+  background-color: rgb(79, 79, 75);
+  align-items: center;
+  justify-content: space-around;
+  padding: 0px 16px;
+  height: 64px;
+  color: white;
+  box-shadow: rgba(218, 216, 210, 0.1) 0px 10px 10px -10px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.left {
+  display: flex;
+  gap: 24px;
+  color: black;
+}
+.right {
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+  background-color: beige;
+}
